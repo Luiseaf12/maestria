@@ -1,0 +1,13 @@
+.container {
+    margin: 20px auto;
+    max-width: 1200px;
+}
+
+.table th {
+    background-color: #0d6efd;
+    color: white;
+}
+
+.text-right {
+    text-align: right;
+}

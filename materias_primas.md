@@ -1,0 +1,3 @@
+- si el producto es de compra por stock se sugerira la compra minima cuando compra minima + stock actual <= stock maximo
+- si el producto no se compra por stock se calculara lo optimo a comprar para cubrir el proximo semestre
+- 
