@@ -52,7 +52,7 @@ def mutar(ruta, prob=0.1):
 
 
 # Algoritmo genético principal
-def algoritmo_genetico(generaciones=100, tam_poblacion=100):
+def algoritmo_genetico(generaciones=1000, tam_poblacion=100):
     poblacion = [crear_ruta() for _ in range(tam_poblacion)]
     mejor_distancia = float("inf")
     mejor_ruta = None
